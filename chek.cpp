@@ -4,7 +4,7 @@ using namespace std;
 int main ()
 {
    
-   /*
+   
     char a; 
     cin >> a;
     if ( a>= 'a' && a<= 'z')
@@ -21,37 +21,7 @@ int main ()
 
     else
 
-    { cout << "the character is a special character"; } */
-
-
-    int n ;
-    
-
-
-    cin >> n;
-
-    int i = 0;
-    
-
-
-
-    while(i <= n )
-    {
-        cout << i << " " ;
-         
-        i = i + 1;
-
-
-    }
-
-    
-
-
-
-
-
-
-
+    { cout << "the character is a special character"; } 
 
 
 }
